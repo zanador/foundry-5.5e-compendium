@@ -1,0 +1,132 @@
+{
+  "id": "55e-full-compendium",
+  "title": "5.5e Full Compendium",
+  "version": "1.0.0",
+  "manifest": "https://github.com/zanador/foundry-5.5e-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/zanador/foundry-5.5e-compendium/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true,
+    "dnd5e": {
+      "spellLists": [
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.wwia6Wwo4BgE9GSI",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.SkHptN2PTzFGDaEj",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.LhvuDQEyrCdg5EfU",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.8yD9Jgp404hfZ9ie",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.5HnIk6HsrSxkvkz5",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.VfZ5mH2ZuyFq82Ga",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.sSzagq8GvYXpfmfs",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.6AnqLUowgdsqMFvz",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.zh7rvKW6o0ErBlLl.JournalEntryPage.Y4RvPiDAYBCwjFmm",
+
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.QimIDfo5KN8OI3uV",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.DmgbRwT5Tf9ekrZc",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.qOOVXCIW320i96wV",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.7capzt3npfKjumWu",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.YVlEjw5DISWMYbYk",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.KiFK6biCUlvAqudG",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.NTMclPnMHu7aOpdj",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.sqKpJdSwDpkoBad7",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.Ckk5ARJvBgBEaNk0",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.lOmtFQsxQBDmPMEF",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.43QRfedsj7hpmfZA",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.B54r8bmuXLNA57Li",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.QxffOx6ZnjYzvgdp",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.9mqMuGZ7nXhwuYye",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.KTjRbP6IGHmRWEYH",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.gj5ULQccv3tEOEjz"
+      ],
+      "sourceBooks": {
+        "PHB 5.5": "[5.5e] Player's Handbook",
+        "DMG 5.5": "[5.5e] Dungeon Master's Guide",
+        "MM 5.5": "[5.5e] Monster Manual",
+        "Faerun 5.5": "[5.5e] Forgottem Realms: Heores of Faerûn",
+        "Faerun Adventures 5.5": "[5.5e] Forgotten Realms: Adventures in Faerûn",
+        "Eberron 5.5": "[5.5e] Eberron: Forge of the Artificer",
+        "Astarion 5.5": "[5.5e] Astarion's Book of Hungers",
+        "Netheril 5.5": "[5.5e] Netheril's Fall",
+        "Lorwyn 5.5": "[5.5e] Lorwyn: First Light",
+        "Hellfire 5.5": "[5.5e] Welcome to the Hellfire Club",
+        "Uni 5.5": "[5.5e] Uni and the Hunt for the Lost Horn"
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "55e-player-options",
+      "label": "5.5e Player Options",
+      "path": "packs/55e-player-options",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "55e-magic-items",
+      "label": "5.5e Magic Items",
+      "path": "packs/55e-magic-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "55e-spells",
+      "label": "5.5e Spells",
+      "path": "packs/55e-spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "55e-spell-lists",
+      "label": "5.5e Spell Lists",
+      "path": "packs/55e-spell-lists",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "55e-monsters",
+      "label": "5.5e Monsters",
+      "path": "packs/55e-monsters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "55e-rollable-tables",
+      "label": "5.5e Rollable Tables",
+      "path": "packs/55e-rollable-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "zanador",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
