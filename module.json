@@ -1,9 +1,9 @@
 {
   "id": "55e-full-compendium",
   "title": "5.5e Full Compendium",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest": "https://github.com/zanador/foundry-5.5e-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/zanador/foundry-5.5e-compendium/releases/download/1.0.0/module.zip",
+  "download": "https://github.com/zanador/foundry-5.5e-compendium/releases/download/1.1.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -37,7 +37,12 @@
         "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.QxffOx6ZnjYzvgdp",
         "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.9mqMuGZ7nXhwuYye",
         "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.KTjRbP6IGHmRWEYH",
-        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.gj5ULQccv3tEOEjz"
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.gj5ULQccv3tEOEjz",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.CmdMxLZ5TP6Eulrm",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.Rj3vsBBICsugnusq",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.J0yCkkMjyWPXVpg7",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.QR7BwE6jNocrZx4Q",
+        "Compendium.55e-full-compendium.55e-spell-lists.JournalEntry.m6Up0hy7HIjh1kJr.JournalEntryPage.JAmypdnpnlYmMN2s"
       ],
       "sourceBooks": {
         "PHB 5.5": "[5.5e] Player's Handbook",
