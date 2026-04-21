@@ -1,15 +1,11 @@
-2026/04/20-11:54:49.022 bc38 Recovering log #317
-2026/04/20-11:54:49.027 bc38 Delete type=0 #317
-2026/04/20-11:54:49.027 bc38 Delete type=3 #315
-2026/04/20-15:45:42.721 1f4c8 Level-0 table #322: started
-2026/04/20-15:45:42.738 1f4c8 Level-0 table #322: 691373 bytes OK
-2026/04/20-15:45:42.739 1f4c8 Delete type=0 #320
-2026/04/20-15:45:42.754 1f4c8 Manual compaction at level-0 from '!folders!61mDfEHhh6pZ0g2x' @ 72057594037927935 : 1 .. '!items.effects!w9D9SMPtxHuIznZ9.NDytclFrNmC418CS' @ 0 : 0; will stop at (end)
-2026/04/20-15:45:42.756 1f4c8 Manual compaction at level-1 from '!folders!61mDfEHhh6pZ0g2x' @ 72057594037927935 : 1 .. '!items.effects!w9D9SMPtxHuIznZ9.NDytclFrNmC418CS' @ 0 : 0; will stop at '!items.effects!un919ZTkQ58ZHmvN.SfIP37t2a4mST8nR' @ 2329 : 1
-2026/04/20-15:45:42.756 1f4c8 Compacting 1@1 + 1@2 files
-2026/04/20-15:45:42.769 1f4c8 Generated table #323@1: 152 keys, 159633 bytes
-2026/04/20-15:45:42.769 1f4c8 Compacted 1@1 + 1@2 files => 159633 bytes
-2026/04/20-15:45:42.770 1f4c8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/04/20-15:45:42.770 1f4c8 Delete type=2 #280
-2026/04/20-15:45:42.771 1f4c8 Delete type=2 #322
-2026/04/20-15:45:42.782 1f4c8 Manual compaction at level-1 from '!items.effects!un919ZTkQ58ZHmvN.SfIP37t2a4mST8nR' @ 2329 : 1 .. '!items.effects!w9D9SMPtxHuIznZ9.NDytclFrNmC418CS' @ 0 : 0; will stop at (end)
+2026/04/20-20:14:54.581 25e18 Recovering log #326
+2026/04/20-20:14:54.587 25e18 Delete type=0 #269
+2026/04/20-20:14:54.587 25e18 Delete type=2 #271
+2026/04/20-20:14:54.587 25e18 Delete type=0 #326
+2026/04/20-20:14:54.588 25e18 Delete type=3 #267
+2026/04/20-20:14:54.588 25e18 Delete type=3 #324
+2026/04/20-22:56:56.228 25e24 Level-0 table #331: started
+2026/04/20-22:56:56.228 25e24 Level-0 table #331: 0 bytes OK
+2026/04/20-22:56:56.229 25e24 Delete type=0 #329
+2026/04/20-22:56:56.246 25e24 Manual compaction at level-0 from '!folders!61mDfEHhh6pZ0g2x' @ 72057594037927935 : 1 .. '!items.effects!w9D9SMPtxHuIznZ9.NDytclFrNmC418CS' @ 0 : 0; will stop at (end)
+2026/04/20-22:56:56.246 25e24 Manual compaction at level-1 from '!folders!61mDfEHhh6pZ0g2x' @ 72057594037927935 : 1 .. '!items.effects!w9D9SMPtxHuIznZ9.NDytclFrNmC418CS' @ 0 : 0; will stop at (end)
